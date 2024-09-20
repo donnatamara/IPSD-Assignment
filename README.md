@@ -1,7 +1,7 @@
 ## Repository praktikum IPSD
 
 <pre>
-Nama : Agung Widiyanto
-NIM : 2211110001
-Kelas : S1SD03-A
+Nama : Donna Nur Tamara
+NIM : 2311110014
+Kelas : S1SD04-A
 </pre>
